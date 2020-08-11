@@ -4,7 +4,7 @@ This project was bootstrapped with Create React App.
 
 > React JS Web Application using React Hooks and make some calculation to show your salary in Brazil after tax.
 
-**Site Application Web:** https://react-calculator-d3721.web.app/
+**Single Page Application:** https://react-calculator-d3721.web.app/
 
 ![app react-countries](https://github.com/V-Coyote/react-calculator/blob/master/public/react-calculator.png?raw=true)
 
