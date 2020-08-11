@@ -6,6 +6,8 @@ This project was bootstrapped with Create React App.
 
 **Site Application Web:** https://react-calculator-d3721.web.app/
 
+![app react-countries](https://github.com/V-Coyote/react-calculator/blob/master/public/react-calculator.png?raw=true)
+
 ## How to start in your machine
 
 1. npm install
