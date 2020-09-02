@@ -6,7 +6,7 @@ This project was bootstrapped with Create React App.
 
 **Single Page Application:** https://react-calculator-d3721.web.app/
 
-![app react-countries](https://github.com/V-Coyote/react-calculator/blob/master/public/react-calculator.png?raw=true)
+![app react-countries](https://github.com/Vinicius-A-R/react-calculator/blob/master/public/react-calculator.png?raw=true)
 
 ## How to start in your machine
 
