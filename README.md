@@ -1,8 +1,8 @@
 # React Salários
 
-This project was bootstrapped with Create React App.
+> This project was bootstrapped with Create React App.
 
-> React JS Web Application using React Hooks and make some calculation to show your salary in Brazil after tax.
+React JS Web Application using React Hooks and make some calculation to show your salary in Brazil after tax.
 
 **Single Page Application:** https://react-calculator-d3721.web.app/
 
